@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TaskManager.cs">
+    <Files>
+      <File FileName="Assets\TaskManager.cs" Line="34" Column="44" />
+      <File FileName="Assets\CreatingTasks.cs" Line="22" Column="3" />
+      <File FileName="Assets\GetCurrentGroup.cs" Line="9" Column="1" />
+      <File FileName="Assets\PetUserManager.cs" Line="23" Column="2" />
+      <File FileName="Assets\PetItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\GetInfoFromPet.cs" Line="21" Column="1" />
+      <File FileName="Assets\ReadInputFields.cs" Line="1" Column="1" />
+      <File FileName="Assets\FacebookSDK\SDK\Scripts\PlatformEditor\EditorFacebookMockDialog.cs" Line="47" Column="21" />
+      <File FileName="Assets\GetGroup.cs" Line="1" Column="1" />
+      <File FileName="Assets\TestCurrentGroup.cs" Line="1" Column="1" />
+      <File FileName="Assets\TaskItem.cs" Line="9" Column="30" />
+      <File FileName="Assets\Scripts\DBConnection\DaoUser.cs" Line="34" Column="65" />
+      <File FileName="Assets\Scripts\FB_Connection.cs" Line="88" Column="15" />
+      <File FileName="Assets\FacebookSDK\SDK\Scripts\Utils\FacebookLogger.cs" Line="111" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
